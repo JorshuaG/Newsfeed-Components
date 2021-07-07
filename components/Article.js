@@ -87,6 +87,16 @@ const data = [
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`,
   },
+  {
+    title: "Ark Survival Evolved causes anger and rage",
+    date: "March 5th, 2021",
+    firstParagraph:
+      "Priodontognathus Eomamenchisaurus Heishansaurus Panamericansaurus Juravenator Buitreraptor Tapinocephalus Megadactylus Pachysaurops Daspletosaurus Antarctosaurus Irritator Yimenosaurus Ornitholestes Dracorex Dandakosaurus Indosuchus Agnosphitys Petrobrasaurus Pakisaurus Galvesaurus Microcoelus Walgettosuchus Shunosaurus Aniksosaurus Dryosaurus Tianchisaurus Mapusaurus Hagryphus Archaeornis Barosaurus Osmakasaurus Hypselospinus Barosaurus Oxalaia Dysalotosaurus Atsinganosaurus Liaoceratops Kayentavenator Avalonia Anodontosaurus Malawisaurus Stenonychosaurus Macrophalangia Ingenia.",
+    secondParagraph:
+      "Suzhousaurus Dimodosaurus Amphicoelias Paleosaurus Avalonianus Unenlagia Hypselospinus Ilokelesia Erliansaurus Aurornis Rahiolisaurus Bradycneme Unenlagia Gobipteryx Agujaceratops Nanyangosaurus Dromaeosauroides Malawisaurus Phyllodon Pedopenna Sterrholophus Torosaurus Appalachiosaurus Zizhongosaurus Dasygnathus Rubeosaurus Walgettosuchus Siamotyrannus Erlicosaurus Kosmoceratops Betasuchus Procerosaurus Yixianosaurus Nodosaurus Parasaurolophus Therizinosaurus Tochisaurus Tsagantegia Yanornis Alwalkeria Wyleyia Proceratops Jiangjunosaurus Saurolophus Zalmoxes.",
+    thirdParagraph:
+      "Silvisaurus Aliwalia Eocarcharia Euronychodon Polyonax Einiosaurus Xianshanosaurus Dandakosaurus Dromiceiomimus Arstanosaurus Bruhathkayosaurus Rhadinosaurus Pantydraco Arizonasaurus Tianzhenosaurus Minotaurasaurus Graciliraptor Agrosaurus Orthomerus Kunmingosaurus Saurornitholestes Troodon Dandakosaurus Nanosaurus Dystrophaeus Torvosaurus Qiupalong Thescelosaurus Nanotyrannus Epicampodon Riojasuchus Albertosaurus Archaeodontosaurus Macrophalangia Torilion Aegyptosaurus Magyarosaurus Planicoxa Dakosaurus Buitreraptor Machimosaurus Enigmosaurus Stegopelta Duriavenator Cathartesaura.",
+  },
 ];
 
 /*
